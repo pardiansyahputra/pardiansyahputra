@@ -11,11 +11,11 @@ I'm an Information Systems student at a university. I have a strong interest in 
 ---
 
 ### My Tech Stack & Interests 💻
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![c](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![cpp](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white) ![assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge) ![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![c](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![cpp](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white) ![assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge) 
 
 **I enjoy exploring and learning:**
 
-**Programming Languages:** Python, C, C++, Assembly, and a bit of Java.
+**Programming Languages:** Python, C, C++, Assembly, 
 
 **Cyber Security:** My strong interest in cyber security makes me constantly curious about networking, operating systems, reverse engineering, and cryptography.
 
