@@ -18,12 +18,14 @@ All my study notes, methodology, and independent research results are documented
 
 IF YOU ARE NOT INDONESIAN (YOU CAN TRANSLATE IT, THE RESULT WILL STILL BE MY)
 
-### 🎯 Areas of Interest
-* **Web & Mobile Security:** Exploring logic flaws and application vulnerabilities.
-* **Low-Level Research:** Studying Assembly and OS internals.
-* **Digital Forensics:** Understanding system artifacts and incident investigation.
-* **systems and technology** all knowledge related to systems and technology
-
+**Library Map:**
+* 🌐 **Web Security** - Teknik eksploitasi dan riset celah aplikasi web.
+* 📱 **Mobile Security** - Analisis keamanan Android dan penggunaan ADB.
+* ⚙️ **Low-Level** - Riset Assembly x64, bahasa C, dan Reverse Engineering.
+* 🔍 **Forensics** - Investigasi artefak sistem dan investigasi digital.
+* 🛠️ **Tools Reference** - Dokumentasi *common tools* (Nmap, Burp, dll) dalam Bahasa Indonesia.
+* ✍️ **Writeups** - Laporan temuan kerentanan dan hasil praktikum lab.
+* 🔧 **Lab Setup** - Konfigurasi lingkungan riset dan panduan instalasi.
 
 ---
 
