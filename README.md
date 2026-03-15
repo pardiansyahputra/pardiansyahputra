@@ -1,48 +1,33 @@
-### Hi there 👋 i'm pardiansyah putra
+### Hi there 👋 i'm pardiansyah putra (MR. ALBERTSTIVE)
+> **INFORMATION SYSTEMS STUDENT | CYBERSECURITY RESEARCHER**
 
 ![pardiansyahputra](/Banner-LinkedIn.jpg)
 
----
 
 ### About Me 🎓
 
-I'm an Information Systems student at a university. I have a strong interest in the world of technology, especially in delving into various programming languages. Let's code together!
+Information Systems student with a focus on Security and Analysis. Dedicated to exploring information systems security and contributing through practical vulnerability validation.I don't just look for vulnerabilities, I study the inner workings of machines. My focus is on turning curiosity into precise technical documentation.
+
+My journey isn't about how many tools I have, but how deeply I can dissect a system.
 
 ---
 
-### My Tech Stack & Interests 💻
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![c](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![cpp](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white) ![assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge) 
+### 📁 Research & Documentation
+All my study notes, methodology, and independent research results are documented here:
+👉 **[The-Eternal-Library](https://github.com/pardiansyahputra/The-Eternal-Library)**
 
-**I enjoy exploring and learning:**
+IF YOU ARE NOT INDONESIAN (YOU CAN TRANSLATE IT, THE RESULT WILL STILL BE MY)
 
-**Programming Languages:** Python, C, C++, Assembly, 
-
-**Cyber Security:** My strong interest in cyber security makes me constantly curious about networking, operating systems, reverse engineering, and cryptography.
-
----
-
-### My Aspirations 🎯
-
-I aspire to become a **Digital Forensic Investigator** and a **Reverse Engineer**. I believe that every line of code and every security vulnerability has a fascinating story to uncover.
-
----
-
-### What You'll Find Here 🚀
-
-I love sharing my learning journey and what I discover. You'll often find my projects and learning notes on this GitHub!
----
-
-### Connect with Me! 📫
-
-* **LinkedIn:** https://id.linkedin.com/in/pardiansyah-putra-3b5bb7345?trk=people-guest_people_search-card
-* **Email:** albertstive1010@gmail.com
-
----
-
-### Fun Fact! 😄
-
-"What's wrong with dreaming if that dream leads us to a better journey?"
-
+### 🎯 Areas of Interest
+* **Web & Mobile Security:** Exploring logic flaws and application vulnerabilities.
+* **Low-Level Research:** Studying Assembly and OS internals.
+* **Digital Forensics:** Understanding system artifacts and incident investigation.
+* **systems and technology** all knowledge related to systems and technology
 
 
 ---
+
+### 📬 Let's Connect
+[Whoami](LINK_MEDIUM_KAMU) / [LinkedIn](https://id.linkedin.com/in/pardiansyah-putra-3b5bb7345) / [Medium](https://medium.com/@albertstive1010) / [Email](mailto:albertstive1010@gmail.com)
+
+*"What's wrong with dreaming if that dream leads us to a better journey?"*
