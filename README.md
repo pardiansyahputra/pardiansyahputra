@@ -30,6 +30,6 @@ IF YOU ARE NOT INDONESIAN (YOU CAN TRANSLATE IT, THE RESULT WILL STILL BE MY)
 ---
 
 ### 📬 Let's Connect
-[Whoami](LINK_MEDIUM_KAMU) / [LinkedIn](https://id.linkedin.com/in/pardiansyah-putra-3b5bb7345) / [Medium](https://medium.com/@albertstive1010) / [Email](mailto:albertstive1010@gmail.com)
+[Whoami](https://pardiansyah-security.pages.dev/) / [LinkedIn](https://id.linkedin.com/in/pardiansyah-putra-3b5bb7345) / [Medium](https://medium.com/@albertstive1010) / [Email](mailto:albertstive1010@gmail.com)
 
 *"What's wrong with dreaming if that dream leads us to a better journey?"*
